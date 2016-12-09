@@ -6,9 +6,9 @@ Atividade dinâmica baseada na Aprendizagem Colaborativa
 
 
 
+Essa é uma atividade que pode ser aplicada em qualquer contexto educacional. Se divide em dois momentos onde os alunos passam por uma construção gradativa do conhecimento em cima de determinado conteúdo apresentado pelo professor, todos os alunos participantes vivenciam por um momento de estudo individual e um momento de estudo em grupos que serão direcionados por uma ordem numérica recebida no início da atividade, essa ordem rege a organização dos grupos e a divisão do conteúdo.
 
-    Essa é uma atividade que pode ser aplicada em qualquer contexto educacional. Se divide em dois momentos onde os alunos passam por uma construção gradativa do conhecimento em cima de determinado conteúdo apresentado pelo professor, todos os alunos participantes vivenciam por um momento de estudo individual e um momento de estudo em grupos que serão direcionados por uma ordem numérica recebida no início da atividade, essa ordem rege a organização dos grupos e a divisão do conteúdo.
-    A metodologia da aprendizagem colaborativa favorece a interação entre os alunos permitindo assim uma aprendizagem significativa através de discussões argumentativas e reflexivas entre o grupo.
+A metodologia da aprendizagem colaborativa favorece a interação entre os alunos permitindo assim uma aprendizagem significativa através de discussões argumentativas e reflexivas entre o grupo.
     
  
 OBJETIVO
